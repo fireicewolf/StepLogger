@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Step Logger</string>
+    <string name="accessibility_description">Record your operation on device.\n\nWarning: This application maybe collect your private information. DO NOT USE IT FOR ILLEGAL ACTION.</string>
+    <string name="showOpenAccessibilityServiceDialogTitle">Accessibility service is disabled!</string>
+    <string name="buttonOk">OK</string>
+    <string name="ButtonCancel">Cancel</string>
+    <string name="showOpenAccessibilityServiceDialogMessage">To use this application, please make sure its accessibility serice has been enabled. Please open its service in \"Setting - Accessibility\", press ok will jump to \"Setting - Accessibility\".</string>
+    <string name="exitDiagMessage">Do you want to exit this app?</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">操作记录器</string>
+    <string name="showOpenAccessibilityServiceDialogTitle">辅助功能服务未开启！</string>
+    <string name="showOpenAccessibilityServiceDialogMessage">本程序需要开启辅助功能服务才能正常工作。请在“设置-辅助功能”中开启本程序的服务，点击确定将跳转到辅助功能界面。</string>
+    <string name="buttonOk">确定</string>
+    <string name="ButtonCancel">取消</string>
+    <string name="accessibility_description">记录您在设备上的操作行为。\n\n注意：本程序会涉及到手机隐私的行为，请勿滥用。</string>
+    <string name="exitDiagMessage">确定要退出本程序吗？</string>
+</resources>
